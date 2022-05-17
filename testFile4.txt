@@ -1,0 +1,1 @@
+Created a new method, which will take file path as parameter
